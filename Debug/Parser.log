@@ -1,0 +1,23 @@
+﻿  AbstrSynTree.cpp
+  c1xx: fatal error C1083: Cannot open source file: '..\AbstractSyntaxTree\AbstrSynTree.cpp': No such file or directory
+  FileSystem.cpp
+  c1xx: fatal error C1083: Cannot open source file: '..\FileSystem\FileSystem.cpp': No such file or directory
+  GrammarHelpers.cpp
+  c1xx: fatal error C1083: Cannot open source file: '..\GrammarHelpers\GrammarHelpers.cpp': No such file or directory
+  Logger.cpp
+  c1xx: fatal error C1083: Cannot open source file: '..\Logger\Logger.cpp': No such file or directory
+  ScopeStack.cpp
+  c1xx: fatal error C1083: Cannot open source file: '..\ScopeStack\ScopeStack.cpp': No such file or directory
+  SemiExp.cpp
+  c1xx: fatal error C1083: Cannot open source file: '..\SemiExp\SemiExp.cpp': No such file or directory
+  Tokenizer.cpp
+  c1xx: fatal error C1083: Cannot open source file: '..\Tokenizer\Tokenizer.cpp': No such file or directory
+  Utilities.cpp
+  c1xx: fatal error C1083: Cannot open source file: '..\Utilities\Utilities.cpp': No such file or directory
+  ActionsAndRules.cpp
+  ConfigureParser.cpp
+C:\github\JimFawcett\CppParser\Parser.h(72,10): error C1083:  Cannot open include file: '../SemiExp/itokcollection.h': No such file or directory
+  Parser.cpp
+C:\github\JimFawcett\CppParser\Parser.h(72,10): error C1083:  Cannot open include file: '../SemiExp/itokcollection.h': No such file or directory
+  Generating Code...
+C:\github\JimFawcett\CppParser\Parser.cpp(13,10): error C1083:  Cannot open include file: '../Utilities/Utilities.h': No such file or directory

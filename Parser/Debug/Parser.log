@@ -1,0 +1,7 @@
+﻿  FileSystem.cpp
+  GrammarHelpers.cpp
+  ActionsAndRules.cpp
+  ConfigureParser.cpp
+  Parser.cpp
+  Generating Code...
+  Parser.vcxproj -> C:\github\JimFawcett\CppParser\Debug\Parser.exe
