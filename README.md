@@ -2,4 +2,4 @@
 
 httpd://Ko,Fawcett.gitbub.io/CppParser.html
 
-Rule-based parser for sttic code analysis
+Rule-based parser for static code analysis
